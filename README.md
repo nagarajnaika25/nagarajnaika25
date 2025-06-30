@@ -10,7 +10,9 @@
 
 💬 Ask me about  Software  Automation Testing 
 
-📫 Reach out to me at   [gmail](nagarajnaiknew36@gmail.com)
+📫 Reach out to me at   [gmail](nagarajnaiknew36@gmail.com)  || [linkedin](www.linkedin.com/in/nagarajnaik961)
+
+
 
 
 
