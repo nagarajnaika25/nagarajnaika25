@@ -2,13 +2,15 @@
 
 ✨ **QA Automation Engineer Intern** ✨
 
+📫 Worked at [Reliance retail limited](https://relianceretail.com/)and[Medi Assist Healthcare Services Private Limited](https://mediassist.in/)
+
 🌱 I’m focused on building robust automation frameworks and delivering high-quality software through efficient testing practices.
 
 👯 I’m looking to collaborate on **open-source testing tools** and **automation frameworks** to contribute to the QA community.
 
 💬 Ask me about  Software  Automation Testing 
 
-📫 Reach out to me at   [gamil](nagarajnaiknew36@gmail.com)
+📫 Reach out to me at   [gmail](nagarajnaiknew36@gmail.com)
 
 
 
