@@ -2,7 +2,7 @@
 
 ✨ **QA Automation Engineer Intern** ✨
 
-📫 Worked at** ![Reliance Retail Limited Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Reliance_Industries_Logo.svg/1280px-Reliance_Industries_Logo.svg.png) [Reliance Retail Limited](https://www.relianceretail.com/) || ![Medi Assist Healthcare Services Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/MediAssist_logo.svg/2560px-MediAssist_logo.svg.png) [Medi Assist Healthcare Services Private Limited](https://mediassist.in/)
+📫 Worked at** !(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Reliance_Industries_Logo.svg/1280px-Reliance_Industries_Logo.svg.png) [Reliance Retail Limited](https://www.relianceretail.com/) ||(https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/MediAssist_logo.svg/2560px-MediAssist_logo.svg.png) [Medi Assist Healthcare Services Private Limited](https://mediassist.in/)
 
 🌱 I’m focused on building robust automation frameworks and delivering high-quality software through efficient testing practices.
 
